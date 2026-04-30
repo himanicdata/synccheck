@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 964786460010090497,
+      "job_id": "89508bf9-bdcb-4a5b-9e2f-0e96a98edae1",
+      "query": "drop table actor;",
+      "is_active": true
+    }
+  ]
+}

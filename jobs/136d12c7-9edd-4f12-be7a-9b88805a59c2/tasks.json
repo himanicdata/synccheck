@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 965160459990863873,
+      "job_id": "136d12c7-9edd-4f12-be7a-9b88805a59c2",
+      "query": "REPLICATE [world].[cityresync] WITH IncrementalCheckColumns = 'last_update' SELECT * FROM [sakila].[city]",
+      "is_active": true
+    },
+    {
+      "id": 965160459995058177,
+      "job_id": "136d12c7-9edd-4f12-be7a-9b88805a59c2",
+      "query": "REPLICATE [world].[countryresync] WITH IncrementalCheckColumns = 'country_id' SELECT * FROM [sakila].[country]",
+      "is_active": true
+    }
+  ]
+}

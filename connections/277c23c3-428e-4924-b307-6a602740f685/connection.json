@@ -1,0 +1,24 @@
+{
+  "id": "277c23c3-428e-4924-b307-6a602740f685",
+  "display_name": "c...",
+  "connector": {
+    "name": "ClickHouse",
+    "version": "latest"
+  },
+  "properties": {
+    "Protocol": "HTTP",
+    "Endpoint": "https",
+    "Database": "/f6m04jqhqb.us-east1.gcp.clickhouse.cloud:8443/default",
+    "Password": "SECURE:wOP6ZhDeLxecuVC37VC1LIkjaV4HG69C43n4dUHQpHOEJZmAjw6d0xTxnz2Ue8FVB3ROGveXPa13CJ/XjQ==",
+    "Other": "logs=\"C:\\test\\test\"",
+    "Port": "",
+    "User": "default"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}

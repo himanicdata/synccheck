@@ -1,0 +1,22 @@
+{
+  "id": "ddf31fdb-1a22-4795-9cd9-835cb7e684c9",
+  "display_name": "123",
+  "connector": {
+    "name": "CData MySQL",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "f",
+    "AuthScheme": "Password",
+    "Password": "SECURE:CgPCkQrCqQnLSSCl1FkeUhajFEoaiHYmNMrWM37R4Lu5VDc/KZ3D7rdRLlBjZ1QPzw==",
+    "Port": "3306",
+    "User": "f"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

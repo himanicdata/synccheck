@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 967365022487547905,
+      "job_id": "6325bb1a-8f12-4e30-a99f-78765bf3bbfc",
+      "query": "REPLICATE [actor1] SELECT * FROM [sakila].[actor1]",
+      "is_active": true
+    },
+    {
+      "id": 967365543168446465,
+      "job_id": "6325bb1a-8f12-4e30-a99f-78765bf3bbfc",
+      "query": "REPLICATE [world].[cityresync] WITH enableparallelreadpartitioning = 'false' SELECT * FROM [sakila].[city]",
+      "is_active": true
+    }
+  ]
+}
