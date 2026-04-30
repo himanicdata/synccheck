@@ -6,11 +6,11 @@
     "version": "latest"
   },
   "properties": {
-    "Server": "f",
+    "Server": "localhost",
     "AuthScheme": "Password",
-    "Password": "SECURE:CgPCkQrCqQnLSSCl1FkeUhajFEoaiHYmNMrWM37R4Lu5VDc/KZ3D7rdRLlBjZ1QPzw==",
+    "Password": "SECURE:zb6oQUIJsSnx+aw4hczWiiEBJ8+cRdNait4aZWgL3elervAKtLTVcv1e5TEr8nZlgs4Hz+maDEefoQ==",
     "Port": "3306",
-    "User": "f"
+    "User": "root"
   },
   "labels": [],
   "settings": {
