@@ -1,6 +1,7 @@
 {
   "id": "0ac612b7-25e5-4e77-8978-be182e81ddc9",
   "display_name": "c/:",
+  "name": "c",
   "connector": {
     "name": "ClickHouse",
     "version": "latest"
