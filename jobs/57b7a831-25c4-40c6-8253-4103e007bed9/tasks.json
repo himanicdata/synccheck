@@ -5,6 +5,18 @@
       "job_id": "57b7a831-25c4-40c6-8253-4103e007bed9",
       "query": "REPLICATE [account] SELECT * FROM [sakila].[account]",
       "is_active": true
+    },
+    {
+      "id": 975711175738265601,
+      "job_id": "57b7a831-25c4-40c6-8253-4103e007bed9",
+      "query": "REPLICATE [addresstype] SELECT * FROM [sakila].[addresstype]",
+      "is_active": true
+    },
+    {
+      "id": 975711175738265603,
+      "job_id": "57b7a831-25c4-40c6-8253-4103e007bed9",
+      "query": "REPLICATE [calendar] SELECT * FROM [sakila].[calendar]",
+      "is_active": true
     }
   ]
 }
