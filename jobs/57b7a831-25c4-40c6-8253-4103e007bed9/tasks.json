@@ -19,21 +19,15 @@
       "is_active": true
     },
     {
-      "id": 975711308492181505,
+      "id": 975711175738265601,
       "job_id": "57b7a831-25c4-40c6-8253-4103e007bed9",
-      "query": "REPLICATE [city] SELECT * FROM [sakila].[city]",
+      "query": "REPLICATE [addresstype] SELECT * FROM [sakila].[addresstype]",
       "is_active": true
     },
     {
-      "id": 975711308492181507,
+      "id": 975711175738265603,
       "job_id": "57b7a831-25c4-40c6-8253-4103e007bed9",
-      "query": "REPLICATE [country] SELECT * FROM [sakila].[country]",
-      "is_active": true
-    },
-    {
-      "id": 975711308492181509,
-      "job_id": "57b7a831-25c4-40c6-8253-4103e007bed9",
-      "query": "REPLICATE [customer] SELECT * FROM [sakila].[customer]",
+      "query": "REPLICATE [calendar] SELECT * FROM [sakila].[calendar]",
       "is_active": true
     }
   ]
