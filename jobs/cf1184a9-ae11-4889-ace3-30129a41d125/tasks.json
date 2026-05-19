@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 977106150141071361,
+      "job_id": "cf1184a9-ae11-4889-ace3-30129a41d125",
+      "query": "REPLICATE [account] SELECT * FROM [sakila].[account]",
+      "is_active": true
+    },
+    {
+      "id": 977106150141071363,
+      "job_id": "cf1184a9-ae11-4889-ace3-30129a41d125",
+      "query": "REPLICATE [actor1] SELECT * FROM [sakila].[actor1]",
+      "is_active": true
+    }
+  ]
+}
