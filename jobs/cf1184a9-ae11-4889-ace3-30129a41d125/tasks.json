@@ -11,6 +11,24 @@
       "job_id": "cf1184a9-ae11-4889-ace3-30129a41d125",
       "query": "REPLICATE [actor1] SELECT * FROM [sakila].[actor1]",
       "is_active": true
+    },
+    {
+      "id": 977106338373046273,
+      "job_id": "cf1184a9-ae11-4889-ace3-30129a41d125",
+      "query": "REPLICATE [address] SELECT * FROM [sakila].[address]",
+      "is_active": true
+    },
+    {
+      "id": 977106338373046275,
+      "job_id": "cf1184a9-ae11-4889-ace3-30129a41d125",
+      "query": "REPLICATE [calendar] SELECT * FROM [sakila].[calendar]",
+      "is_active": true
+    },
+    {
+      "id": 977106338373046277,
+      "job_id": "cf1184a9-ae11-4889-ace3-30129a41d125",
+      "query": "REPLICATE [city] SELECT * FROM [sakila].[city]",
+      "is_active": true
     }
   ]
 }
