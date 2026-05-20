@@ -1,0 +1,24 @@
+{
+  "id": "f8c30d78-4510-4b56-a8d4-95f291fbe3a1",
+  "display_name": "mysql_new",
+  "name": "mysql_new",
+  "connector": {
+    "name": "CData MySQL",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "localhost",
+    "AuthScheme": "Password",
+    "Password": "SECURE:xejG9pLbbvu6eptkxRau+UrLwvk47FXSdCCdgdpb7Cjp41eLOlD0WNVjJvLPJM6sMq4nhA8Eb1x/XQ==",
+    "Database": "sakila",
+    "Port": "3306",
+    "User": "root"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}
