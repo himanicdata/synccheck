@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 977113716237668353,
+      "job_id": "3456513d-06cb-434f-9375-21100c05c6fc",
+      "query": "REPLICATE [sakila].[testusecase] ([LOG_ID] int, PRIMARY KEY([LOG_ID])) WITH maxparallelpartitions = '2', partitionkey = 'LOG_ID', enableparallelreadpartitioning = 'true', partitionsize = '180' SELECT * FROM [DAVY].[testusecase]",
+      "is_active": true
+    },
+    {
+      "id": 977144826074107905,
+      "job_id": "3456513d-06cb-434f-9375-21100c05c6fc",
+      "query": "REPLICATE [s11924_rr_test] SELECT * FROM [DAVY].[s11924_rr_test]",
+      "is_active": true
+    },
+    {
+      "id": 977144826074107907,
+      "job_id": "3456513d-06cb-434f-9375-21100c05c6fc",
+      "query": "REPLICATE [EMPLOYEE2] SELECT * FROM [DAVY].[EMPLOYEE2]",
+      "is_active": true
+    },
+    {
+      "id": 977144826074107909,
+      "job_id": "3456513d-06cb-434f-9375-21100c05c6fc",
+      "query": "REPLICATE [SPITQT] SELECT * FROM [DAVY].[SPITQT]",
+      "is_active": true
+    },
+    {
+      "id": 977144826074107911,
+      "job_id": "3456513d-06cb-434f-9375-21100c05c6fc",
+      "query": "REPLICATE [TABLE5K] SELECT * FROM [DAVY].[TABLE5K]",
+      "is_active": true
+    }
+  ]
+}

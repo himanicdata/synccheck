@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 977162879369351169,
+      "job_id": "b7d8c69e-e556-4fd5-9fea-8b0e47ab20ba",
+      "query": "REPLICATE [BENCH_LARGE] SELECT * FROM [JTES2].[BENCH_LARGE]",
+      "is_active": true
+    },
+    {
+      "id": 977162879369351171,
+      "job_id": "b7d8c69e-e556-4fd5-9fea-8b0e47ab20ba",
+      "query": "REPLICATE [BENCH_LOB] SELECT * FROM [JTES2].[BENCH_LOB]",
+      "is_active": true
+    },
+    {
+      "id": 977162879369351173,
+      "job_id": "b7d8c69e-e556-4fd5-9fea-8b0e47ab20ba",
+      "query": "REPLICATE [BENCH_SCROLL] SELECT * FROM [JTES2].[BENCH_SCROLL]",
+      "is_active": true
+    }
+  ]
+}

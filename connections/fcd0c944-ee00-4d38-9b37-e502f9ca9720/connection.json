@@ -1,0 +1,24 @@
+{
+  "id": "fcd0c944-ee00-4d38-9b37-e502f9ca9720",
+  "display_name": "db2i",
+  "name": "db2i",
+  "connector": {
+    "name": "DB2 AS400",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "DEV750.RZKH.DE",
+    "Database": "DEV750",
+    "Password": "SECURE:ErLtBcdsiTWhh/SNjwk9ysNR3OEIrTDq+xt4pRblrM1J4OGAgTW1HU2ahDm4hkf+38bk4eVRue5V",
+    "Port": "446",
+    "User": "DAVY",
+    "prompt": "false"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}
